@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# LFS-tracked large files (nếu bạn dùng Git LFS)
+*.psd
+*.png
+*.jpg
+*.tga
+*.fbx
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.mov
+*.avi
+*.zip
+*.unitypackage
+
