@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemy
+  - EnemyBullet
   layers:
   - Default
   - TransparentFX
@@ -46,6 +48,12 @@ TagManager:
     locked: 0
   - name: Gun
     uniqueID: 910071469
+    locked: 0
+  - name: Enemy
+    uniqueID: 2285564723
+    locked: 0
+  - name: HpBar
+    uniqueID: 2872687353
     locked: 0
   m_RenderingLayers:
   - Default

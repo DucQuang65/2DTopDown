@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -6,6 +7,10 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb; // Component for physics interactions
     private SpriteRenderer spriteRenderer; // For rendering the player sprite
     private Animator animator;
+    [SerializeField] protected float maxHp = 100f;
+    protected float currentHp;
+    [SerializeField] private Image hpBar;
+
     private void Awake()
     {
         // Initialize the Rigidbody2D component
@@ -15,7 +20,8 @@ public class Player : MonoBehaviour
     }
     void Start()
     {
-        
+        currentHp = maxHp; // Initialize current HP to max HP
+        UpdateHpBar();
     }
 
     void Update()
@@ -41,6 +47,32 @@ public class Player : MonoBehaviour
         }
         else { 
             animator.SetBool("IsRun", false); // Set the animation state to idle
+        }
+    }
+
+    public void TakeDamage(float damage)
+    {
+        // Handle player taking damage
+        Debug.Log($"Player took {damage}  damage!");
+        currentHp -= damage;
+        currentHp = Mathf.Max(currentHp, 0); // Ensure current HP does not go below 0
+        UpdateHpBar();
+        if (currentHp <= 0)
+        {
+            Die();
+        }
+    }
+    private void Die()
+    {
+        // Handle player death
+        Debug.Log("Player has died!");
+        Destroy(gameObject); // Destroy the player game object
+    }
+    protected void UpdateHpBar()
+    {
+        if (hpBar != null)
+        {
+            hpBar.fillAmount = currentHp / maxHp; // Update the HP bar fill amount
         }
     }
 }
