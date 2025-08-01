@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|d:\\mygamecreate\\getdout - copy - copy - copy - copy\\assets\\scripts\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\maintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\shaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\lancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\harpoonfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\harpoonfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\paddlefish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddlefish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\thief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\skillplayer\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\skillplayer\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\gamestartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\buildzonegizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildzonegizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DECA5BC-FB5D-BB25-AF8F-ABF18FFD61B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\SkillPlayer\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\SkillPlayer\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\SkillPlayer\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\SkillPlayer\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAuwI4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:58:45.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainTower.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\MainTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainTower.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\MainTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainTower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:56:40.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shaman.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Shaman.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shaman.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Shaman.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shaman.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAAAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:54:22.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lancer.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Lancer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lancer.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Lancer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lancer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:53:08.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HarpoonFish.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\HarpoonFish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HarpoonFish.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\HarpoonFish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HarpoonFish.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:51:55.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Bear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bear.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Bear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bear.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwFkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:50:28.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaddleFish.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\PaddleFish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PaddleFish.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\PaddleFish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PaddleFish.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:49:09.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thief.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Thief.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Thief.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Thief.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Thief.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:48:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spider.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Spider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spider.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Spider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spider.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwFEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:45:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Snake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Snake.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\Snake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Snake.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwJ4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:44:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameStartManager.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\GameStartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStartManager.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\GameStartManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStartManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:39:25.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAIwM0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:22:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:20:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuildZoneGizmos.cs",
+              "DocumentMoniker": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\BuildZoneGizmos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildZoneGizmos.cs",
+              "ToolTip": "D:\\MyGameCreate\\Getdout - Copy - Copy - Copy - Copy\\Assets\\Scripts\\BuildZoneGizmos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildZoneGizmos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:20:19.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
